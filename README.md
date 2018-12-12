@@ -1,2 +1,2 @@
 # Voice_learn
-pythonによる音声識別
+ythonによる音声識別
